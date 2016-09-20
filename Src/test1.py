@@ -1,4 +1,5 @@
-# Add this extra line
+
+# This is a comment on line 2
 def my_function():
     print ('Ending function\n')
 
