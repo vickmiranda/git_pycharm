@@ -1,5 +1,6 @@
 
+# This is a comment on line 2
 def my_function():
-    print ('Starting functions\n')
+    print ('Starting function\n')
 
 
