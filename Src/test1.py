@@ -13,6 +13,11 @@ class MyClass(object):
 
     def cleanup(self):
         print ('my cleanup\n')
-        
+
+
+if __name__ == '__main__':
+    my_c = MyClass()
+    my_c.run()
+
 
 
