@@ -1,6 +1,5 @@
 
 # This is a comment on line 2
-# Adding a small change here
 
 def my_function():
     print ('Ending function\n')
@@ -11,6 +10,9 @@ class MyClass(object):
 
     def run(self):
         print('run \n')
+
+    def cleanup(self):
+        print ('my cleanup\n')
         
 
 
