@@ -1,5 +1,5 @@
-
+# Add this extra line
 def my_function():
-    print ('Starting functions\n')
+    print ('Ending function\n')
 
 
